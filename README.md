@@ -1,9 +1,9 @@
 # 👋 Olá, eu sou o Willian Luis
 
-🎓 Estudante de Desenvolvimento de Sistemas
-💻 Estagiário na área de TI e analista de BI
-📍 Brasil
-🏙️ Chapecó
+- 🎓 Estudante de Desenvolvimento de Sistemas
+- 💻 Estagiário na área de TI e analista de BI
+- 📍 Brasil
+- 🏙️ Chapecó
 
 ## Sobre mim
 
@@ -29,7 +29,7 @@ Aqui no GitHub você vai encontrar projetos dos meus estudos e práticas.
 
 Crescer na área de tecnologia e me tornar um desenvolvedor cada vez melhor.
 
----
+--
 
 ⭐ *"Eu estou sempre fazendo aquilo que não sou capaz de fazer, numa tentativa de aprender como fazê-lo."*
 — Vincent van Gogh
