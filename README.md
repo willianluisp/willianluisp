@@ -23,13 +23,20 @@ Aqui no GitHub você vai encontrar projetos dos meus estudos e práticas.
 * React
 * Java 
 * SQL
-  
+* MarkDown
+
+## Interesses
+
+- Desenvolvimento Back-end
+- APIs
+- Banco de Dados
+- Automação
+- Integração de Sistema
+- Desenvolvimento FullStack
 
 ## Objetivo
 
 Crescer na área de tecnologia e me tornar um desenvolvedor cada vez melhor.
-
---
 
 ⭐ *"Eu estou sempre fazendo aquilo que não sou capaz de fazer, numa tentativa de aprender como fazê-lo."*
 — Vincent van Gogh
