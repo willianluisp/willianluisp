@@ -27,12 +27,14 @@ Aqui no GitHub você vai encontrar projetos dos meus estudos e práticas.
 
 ## Interesses
 
+- DevOps
 - Desenvolvimento Back-end
 - APIs
 - Banco de Dados
 - Automação
 - Integração de Sistema
 - Desenvolvimento FullStack
+- Analista De Dados
 
 ## Objetivo
 
