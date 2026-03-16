@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Willian Luis
 
-<!--
-**willianluisp/willianluisp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Desenvolvimento de Sistemas
+💻 Estagiário na área de TI e analista de BI
+📍 Brasil
+🏙️ Chapecó
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou estudando programação e aprendendo cada vez mais sobre desenvolvimento de software.
+Aqui no GitHub você vai encontrar projetos dos meus estudos e práticas.
+
+## Tecnologias que estou aprendendo
+
+* JavaScript
+* Python
+* Node.js
+* HTML
+* CSS
+* Git
+* GitHub
+* C
+* React
+* Java 
+* SQL
+  
+
+## Objetivo
+
+Crescer na área de tecnologia e me tornar um desenvolvedor cada vez melhor.
+
+---
+
+⭐ *"Eu estou sempre fazendo aquilo que não sou capaz de fazer, numa tentativa de aprender como fazê-lo."*
+— Vincent van Gogh
