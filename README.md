@@ -8,11 +8,11 @@
 
 <img src="https://github.com/willianluisp.png" width="170" style="border-radius:50%;" />
 
-# 👋 Olá, eu sou o Willian Luis
+# 👋 Olá, eu sou o Willian Luis Pedroso
 
-### 🎓 Estudante de Desenvolvimento de Sistemas
+### 🎓 Estudante de ADS
 
-### 💼 Estagiário de TI • Analista de BI
+### 💼 Estagiário de TI • Analista de Dados
 
 📍 Chapecó • Santa Catarina • Brasil 🇧🇷
 
@@ -54,7 +54,7 @@ STATUS: ONLINE 🚀
 
 # 👨‍💻 Sobre mim
 
-Olá! Sou estudante de **Desenvolvimento de Sistemas** e atualmente trabalho como **Estagiário de TI e Analista de BI**.
+Olá! Sou estudante de **ADS** e atualmente trabalho como **Estagiário de TI e Analista de Dados**.
 
 Gosto de aprender construindo projetos, principalmente nas áreas de desenvolvimento Back-end, banco de dados, automação e IoT.
 
@@ -66,7 +66,7 @@ Aqui no GitHub compartilho meus estudos, desafios e projetos desenvolvidos ao lo
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,c,postgres,mysql,git,github,vscode&perline=7"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,c,cpp,postgres,mysql,git,github,vscode,linux,arduino,md&perline=8"/>
 
 </div>
 
@@ -158,16 +158,6 @@ Aqui no GitHub compartilho meus estudos, desafios e projetos desenvolvidos ao lo
 
 ---
 
-# 🏆 Conquistas
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=willianluisp&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12"/>
-
-</div>
-
----
-
 <div align="center">
 
 ### 🚀 "Cada commit representa um novo aprendizado."
@@ -184,7 +174,6 @@ Aqui no GitHub compartilho meus estudos, desafios e projetos desenvolvidos ao lo
 
 </div>
 
-> **⚠️ A animação da cobra será configurada depois. No momento ela pode não aparecer.**
 
 ---
 
@@ -244,13 +233,12 @@ Aqui no GitHub compartilho meus estudos, desafios e projetos desenvolvidos ao lo
 
 ## Obrigado pela visita! 👋
 
-Se gostou de algum projeto, fique à vontade para explorá-lo ou acompanhar minha evolução.
+Objetivo
 
-⭐ Cada projeto representa um novo aprendizado.
+Crescer na área de tecnologia e me tornar um desenvolvedor cada vez melhor.
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=willianluisp&style=for-the-badge&color=22c55e"/>
+⭐ "Eu estou sempre fazendo aquilo que não sou capaz de fazer, numa tentativa de aprender como fazê-lo."
+— Vincent van Gogh
 
 </div>
 
