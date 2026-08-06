@@ -92,7 +92,6 @@ const perfil = {
     "Aprender todos os dias e evoluir como desenvolvedor."
 }
 ```
-
 ---
 
 # 🚀 O que você encontrará aqui
@@ -114,5 +113,112 @@ Aqui compartilho projetos relacionados a:
 - ☕ Java
 
 - 📚 Projetos de estudo
+
+---
+
+# ⚡ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,c,mysql,postgres,git,github,vscode&perline=7"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+| 💻 Linguagens | 🗄️ Banco de Dados | ⚙️ Ferramentas |
+|:-------------:|:-----------------:|:--------------:|
+| JavaScript | PostgreSQL | Git |
+| Python | MySQL | GitHub |
+| Java | SQL | VS Code |
+| C | | Power BI |
+| HTML/CSS | | Markdown |
+
+</div>
+
+---
+
+# 📚 Atualmente estudando
+
+```text
+🐍 Python            ██████████ 100%
+
+🗄️ PostgreSQL        █████████░ 90%
+
+☕ Java              ████████░░ 80%
+
+⚛️ React             ███████░░░ 70%
+
+🤖 ESP32 & IoT       ██████░░░░ 60%
+
+📊 Power BI          █████░░░░ 50%
+
+🇺🇸 Inglês             ████░░░░ 45%
+```
+
+---
+
+# 🎯 Objetivos atuais
+
+- 🚀 Evoluir como Desenvolvedor Back-end
+
+- 📊 Aprimorar conhecimentos em Business Intelligence
+
+- 🗄️ Trabalhar cada vez mais com Banco de Dados
+
+- 🤖 Desenvolver projetos com ESP32 e IoT
+
+- 🌐 Criar aplicações Full Stack
+
+- 🇺🇸 Melhorar meu inglês para a área de tecnologia
+
+---
+
+# 💼 Áreas de interesse
+
+<div align="center">
+
+| 💻 Desenvolvimento | 📊 Dados | 🤖 Tecnologia |
+|:------------------:|:--------:|:-------------:|
+| Back-end | Business Intelligence | IoT |
+| APIs REST | SQL | ESP32 |
+| Node.js | PostgreSQL | Automação |
+| React | Power BI | Integração de Sistemas |
+
+</div>
+
+---
+
+# 🛠️ Ferramentas que utilizo
+
+<div align="center">
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi,postman,markdown,arduino"/>
+
+</div>
+
+---
+
+# 📈 Atualmente
+
+```bash
+$ status
+
+✔ Estudando Desenvolvimento de Sistemas
+
+✔ Trabalhando com TI e BI
+
+✔ Desenvolvendo projetos pessoais
+
+✔ Aprendendo React
+
+✔ Aprendendo ESP32
+
+✔ Aprimorando Inglês
+
+✔ Sempre buscando novos desafios 🚀
+```
 
 ---
