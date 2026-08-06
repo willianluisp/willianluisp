@@ -12,7 +12,7 @@
 
 ### 🎓 Estudante de ADS
 
-### 💼 Estagiário de TI • Analista de Dados
+### 💼 Estagiário em Suporte de TI • Analista de Dados
 
 📍 Chapecó • Santa Catarina • Brasil 🇧🇷
 
@@ -54,7 +54,7 @@ STATUS: ONLINE 🚀
 
 # 👨‍💻 Sobre mim
 
-Olá! Sou estudante de **ADS** e atualmente trabalho como **Estagiário de TI e Analista de Dados**.
+Olá! Sou estudante de **ADS** e atualmente trabalho como **Estagiário em Suporte de TI e Analista de Dados**.
 
 Gosto de aprender construindo projetos, principalmente nas áreas de desenvolvimento Back-end, banco de dados, automação e IoT.
 
@@ -76,9 +76,9 @@ Aqui no GitHub compartilho meus estudos, desafios e projetos desenvolvidos ao lo
 
 | Área | Tecnologias |
 |------|-------------|
-| 💻 Desenvolvimento | React • Node.js • Java |
+| 💻 Desenvolvimento | React • Node.js • Java • Python • C • JavaScript • Html • Css • MarkDown • C++ |
 | 🗄️ Banco de Dados | PostgreSQL • SQL |
-| 🤖 IoT | ESP32 • Sensores |
+| 🤖 IoT | Arduino • ESP32 • Sensores • C++ |
 | 📊 Business Intelligence | Power BI *(em aprendizado)* |
 | 🌎 Idiomas | Inglês *(em aprendizado)* |
 
@@ -95,32 +95,14 @@ Aqui no GitHub compartilho meus estudos, desafios e projetos desenvolvidos ao lo
 - 🤖 Criar mais projetos utilizando ESP32.
 
 - 📚 Aprender uma nova tecnologia em cada projeto.
-
----
-
-<div align="center">
-
-### 📈 Aprendizado atual
-
-| Tecnologia | Nível |
-|:-----------|:----:|
-| 🐍 Python | 🟩🟩🟩🟩⬜ |
-| 🗄️ PostgreSQL | 🟩🟩🟩⬜⬜ |
-| ☕ Java | 🟩🟩🟩⬜⬜ |
-| ⚛️ React | 🟩🟩⬜⬜⬜ |
-| 🤖 ESP32 | 🟩🟩⬜⬜⬜ |
-| 📊 Power BI | 🟩🟩⬜⬜⬜ |
-| 🇺🇸 Inglês | 🟩🟩⬜⬜⬜ |
-
-</div>
-
+- 
 ---
 
 # 🚀 Projeto em destaque
 
 <div align="center">
 
-<a href="https://github.com/willianluisp/projeto-envelhecimento">
+<a href="https://github.com/willianluisp/projetoenvelhecimento">
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=willianluisp&repo=projetoenvelhecimento&theme=tokyonight&hide_border=true"/>
 
@@ -140,9 +122,9 @@ Aqui no GitHub compartilho meus estudos, desafios e projetos desenvolvidos ao lo
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=willianluisp&show_icons=true&theme=tokyonight&hide_border=true&icon_color=22c55e&title_color=22c55e"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=willianluisp&show_icons=true&theme=tokyonight"/>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianluisp&layout=compact&theme=tokyonight&hide_border=true&title_color=22c55e"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianluisp&layout=compact&theme=tokyonight"/>
 
 </div>
 
@@ -163,17 +145,6 @@ Aqui no GitHub compartilho meus estudos, desafios e projetos desenvolvidos ao lo
 ### 🚀 "Cada commit representa um novo aprendizado."
 
 </div>
-
----
-
-# 🐍 Contribuições
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/willianluisp/willianluisp/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-
-</div>
-
 
 ---
 
@@ -198,9 +169,9 @@ Aqui no GitHub compartilho meus estudos, desafios e projetos desenvolvidos ao lo
 ```text
 🎓 Desenvolvimento de Sistemas
 
-💼 Estagiário de TI
+💼 Estagiário em suporte de TI
 
-📈 Analista de BI
+📈 Estágiario Analista de BI
 
 📍 Chapecó - SC
 
@@ -214,16 +185,25 @@ Aqui no GitHub compartilho meus estudos, desafios e projetos desenvolvidos ao lo
 # 🌱 Atualmente explorando
 
 - 🐍 Python
-
 - ☕ Java
-
 - ⚛️ React
-
-- 🗄️ PostgreSQL
-
-- 🤖 ESP32
-
+- 🟢 Node.js
+- 🌐 HTML, CSS e JavaScript
+- 🗄️ PostgreSQL e SQL
+- 🤖 ESP32 & Arduino
+- 🔧 Git e GitHub
+- 🐧 Linux
+- 📝 Markdown
 - 🌐 APIs REST
+- 📊 Power BI *(em aprendizado)*
+- 📈 Business Intelligence
+- 📂 Modelagem de Banco de Dados
+- 🔄 Automação de Processos
+- 📡 Integração de Sistemas
+- 💻 Desenvolvimento Back-end
+- 🌍 Desenvolvimento Web
+- 📱 Internet das Coisas (IoT)
+- 🇺🇸 Inglês para tecnologia
 
 - 🇺🇸 Inglês
 
