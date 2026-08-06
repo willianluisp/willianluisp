@@ -1,44 +1,111 @@
-# 👋 Olá, eu sou o Willian Luis
+<div align="center">
 
-- 🎓 Estudante de Desenvolvimento de Sistemas
-- 💻 Estagiário na área de TI e analista de BI
-- 📍 Brasil
-- 🏙️ Chapecó
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:050505,50:14532d,100:22c55e&text=WILLIAN%20LUIS&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-## Sobre mim
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2500&pause=800&color=22C55E&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;IT+INTERN+%7C+BI+ANALYST;DEVELOPMENT+SYSTEMS+STUDENT;BACKEND+%7C+DATABASES+%7C+IOT;ALWAYS+LEARNING"/>
 
-Estou estudando programação e aprendendo cada vez mais sobre desenvolvimento de software.
-Aqui no GitHub você vai encontrar projetos dos meus estudos e práticas.
+<br>
 
-## Tecnologias que estou aprendendo
+<img src="https://github.com/willianluisp.png" width="180"/>
 
-* JavaScript
-* Python
-* Node.js
-* HTML
-* CSS
-* Git
-* GitHub
-* C
-* React
-* Java 
-* SQL
-* MarkDown
+# 👋 Hi, I'm Willian Luis
 
-## Interesses
+### Development Systems Student • IT Intern • BI Analyst
 
-- DevOps
-- Desenvolvimento Back-end
-- APIs
-- Banco de Dados
-- Automação
-- Integração de Sistema
-- Desenvolvimento FullStack
-- Analista De Dados
+📍 Chapecó - SC • 🇧🇷 Brazil
 
-## Objetivo
+</div>
 
-Crescer na área de tecnologia e me tornar um desenvolvedor cada vez melhor.
+---
 
-⭐ *"Eu estou sempre fazendo aquilo que não sou capaz de fazer, numa tentativa de aprender como fazê-lo."*
-— Vincent van Gogh
+# 🤖 WILLIAN SYSTEM
+
+```bash
+╭────────────────────────────────────╮
+│        WILLIAN SYSTEM v2.0         │
+╰────────────────────────────────────╯
+
+Initializing...
+
+████████████████████ 100%
+
+✔ Development Systems Student
+
+✔ IT Intern
+
+✔ BI Analyst
+
+✔ Backend Environment Loaded
+
+✔ Database Connected
+
+✔ Power BI Ready
+
+✔ English Learning Enabled
+
+STATUS: ONLINE 🚀
+```
+
+---
+
+# 👨‍💻 About Me
+
+```javascript
+const Willian = {
+
+    name: "Willian Luis",
+
+    role: [
+        "Development Systems Student",
+        "IT Intern",
+        "BI Analyst"
+    ],
+
+    location: "Chapecó - SC 🇧🇷",
+
+    languages: {
+        portuguese: "Native",
+        english: "Learning"
+    },
+
+    currentlyLearning: [
+        "React",
+        "Node.js",
+        "Python",
+        "Java",
+        "SQL",
+        "Power BI",
+        "ESP32"
+    ],
+
+    interests: [
+        "Backend",
+        "Databases",
+        "Business Intelligence",
+        "Automation",
+        "APIs",
+        "IoT",
+        "Full Stack"
+    ],
+
+    motto:
+    "Learning today. Building tomorrow."
+}
+```
+
+---
+
+# 🚀 About this GitHub
+
+Here you'll find projects related to:
+
+- 🌐 Web Development
+- 🗄️ Databases
+- 📊 Business Intelligence
+- 🤖 ESP32 & IoT
+- 🐍 Python Automation
+- ⚛️ React Applications
+- ☕ Java Projects
+- 📚 Study Projects
+
+---
