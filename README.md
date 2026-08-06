@@ -1,74 +1,74 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:050505,50:14532d,100:22c55e&text=WILLIAN%20LUIS&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050505,50:166534,100:22c55e&text=WILLIAN%20LUIS&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2500&pause=800&color=22C55E&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;IT+INTERN+%7C+BI+ANALYST;DEVELOPMENT+SYSTEMS+STUDENT;BACKEND+%7C+DATABASES+%7C+IOT;ALWAYS+LEARNING"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=850&lines=Desenvolvimento+de+Sistemas;Estagiário+de+TI+e+Analista+de+BI;Back-end+%7C+Banco+de+Dados+%7C+IoT;Sempre+aprendendo+algo+novo"/>
 
 <br>
 
-<img src="https://github.com/willianluisp.png" width="180"/>
+<img src="https://github.com/willianluisp.png" width="170"/>
 
-# 👋 Hi, I'm Willian Luis
+# 👋 Olá, eu sou o Willian Luis
 
-### Development Systems Student • IT Intern • BI Analyst
+### 🎓 Estudante de Desenvolvimento de Sistemas
 
-📍 Chapecó - SC • 🇧🇷 Brazil
+### 💼 Estagiário de TI • Analista de BI
+
+📍 Chapecó - SC • Brasil 🇧🇷
 
 </div>
 
 ---
 
-# 🤖 WILLIAN SYSTEM
+# 💻 Terminal
 
 ```bash
-╭────────────────────────────────────╮
-│        WILLIAN SYSTEM v2.0         │
-╰────────────────────────────────────╯
+╭──────────────────────────────────────╮
+│        WILLIAN SYSTEM v2.0           │
+╰──────────────────────────────────────╯
 
-Initializing...
+Inicializando sistema...
 
 ████████████████████ 100%
 
-✔ Development Systems Student
+✔ Estudante detectado
 
-✔ IT Intern
+✔ Ambiente de desenvolvimento carregado
 
-✔ BI Analyst
+✔ Banco de dados conectado
 
-✔ Backend Environment Loaded
+✔ Power BI carregado
 
-✔ Database Connected
+✔ Projetos sincronizados
 
-✔ Power BI Ready
-
-✔ English Learning Enabled
+✔ Inglês em aprendizado
 
 STATUS: ONLINE 🚀
 ```
 
 ---
 
-# 👨‍💻 About Me
+# 👨‍💻 Sobre mim
 
 ```javascript
-const Willian = {
+const perfil = {
 
-    name: "Willian Luis",
+    nome: "Willian Luis",
 
-    role: [
-        "Development Systems Student",
-        "IT Intern",
-        "BI Analyst"
+    cargo: [
+        "Estudante de Desenvolvimento de Sistemas",
+        "Estagiário de TI",
+        "Analista de BI"
     ],
 
-    location: "Chapecó - SC 🇧🇷",
+    localização: "Chapecó - SC",
 
-    languages: {
-        portuguese: "Native",
-        english: "Learning"
+    idiomas: {
+        português: "Nativo",
+        inglês: "Em aprendizado 🇺🇸"
     },
 
-    currentlyLearning: [
+    estudando: [
         "React",
         "Node.js",
         "Python",
@@ -78,34 +78,41 @@ const Willian = {
         "ESP32"
     ],
 
-    interests: [
-        "Backend",
-        "Databases",
+    interesses: [
+        "Back-end",
+        "Banco de Dados",
         "Business Intelligence",
-        "Automation",
         "APIs",
+        "Automação",
         "IoT",
         "Full Stack"
     ],
 
-    motto:
-    "Learning today. Building tomorrow."
+    objetivo:
+    "Aprender todos os dias e evoluir como desenvolvedor."
 }
 ```
 
 ---
 
-# 🚀 About this GitHub
+# 🚀 O que você encontrará aqui
 
-Here you'll find projects related to:
+Aqui compartilho projetos relacionados a:
 
-- 🌐 Web Development
-- 🗄️ Databases
+- 🌐 Desenvolvimento Web
+
+- 🗄️ Banco de Dados
+
 - 📊 Business Intelligence
+
 - 🤖 ESP32 & IoT
-- 🐍 Python Automation
-- ⚛️ React Applications
-- ☕ Java Projects
-- 📚 Study Projects
+
+- 🐍 Automações em Python
+
+- ⚛️ React
+
+- ☕ Java
+
+- 📚 Projetos de estudo
 
 ---
